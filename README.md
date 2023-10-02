@@ -1,4 +1,4 @@
-- Hi, I’m @lucasbsd < https://www.linkedin.com/in/lucas-fran%C3%A7a-1295836b/ >
+- Hi, I’m @lucasbsd < https://www.linkedin.com/in/lucasfrancabsd/ >
 - I’m interested in create Juniper/Cisco automation scripts
 - I’m currently learning Pyhton
 
